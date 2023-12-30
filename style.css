@@ -60,8 +60,8 @@ nav {
     right: 0;
     z-index: 99999999;
     transition: transform 0.3s ease;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 
 nav img {
