@@ -46,6 +46,10 @@ table {
 /* START HERE */
 
 /* START NAVIGASI */
+body {
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+  }
 
 nav {
     height: 60px;
