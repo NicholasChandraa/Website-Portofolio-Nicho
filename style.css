@@ -802,8 +802,15 @@ header{
 }
 
 .project-empat img {
-    width: 500px;
-    height: 350px;
+    width: 400px;
+}
+
+.project-dua{
+    padding: 110px 0px 40px;
+}
+
+.project-tiga{
+    padding: 60px 30px 90px;
 }
 
 .project-dua, .project-tiga {
@@ -815,7 +822,6 @@ header{
     flex-direction: column;
     align-items: center;
     font-size: 17px;
-    padding: 60px 30px 90px;
 }
 
 
